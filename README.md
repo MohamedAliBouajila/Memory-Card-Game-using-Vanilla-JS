@@ -9,3 +9,6 @@ Created using only :
 - HTML5
 - CSS3 (Grid)
 - Vanilla JavaScript
+
+
+Live Demo :<a href="https://m3d4li.github.io/Memory-Card-Game-using-Vanilla-JS/">click here</a>
